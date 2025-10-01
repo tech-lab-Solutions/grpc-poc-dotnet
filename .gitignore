@@ -10,3 +10,5 @@ obj/
 # Ignore temp files
 *.log
 *.tmp
+temp_auto_push.bat
+temp_interactive_push.bat
